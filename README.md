@@ -44,10 +44,8 @@ cd seu_repo
 docker compose up --build
 ```
 ### Esse comando irá:
-
-Subir o banco Oracle em localhost:1521
-
-Subir a API ASP.NET em localhost:5000/swagger
+- Subir o banco Oracle em `localhost:1521`
+- Subir a API ASP.NET em `localhost:5000/swagger`
 ---
 
 ## 🔐 Variáveis de Ambiente
